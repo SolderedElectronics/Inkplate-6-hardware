@@ -14,12 +14,12 @@ Buttons PCB | InkPlate Board |    Button
 ------------+----------------+---------------
             |                |
    Pin 1    |      GND       |
-   Pin 2    |      GPB2      |      U6
-   Pin 3    |      GPB3      |      U3
-   Pin 4    |      GPB4      |      U5
-   Pin 5    |      GPB5      |      U1
-   Pin 6    |      GPB6      |      U4
-   Pin 7    |      GPB7      |      U2
+   Pin 2    |      GPB7      |      U6
+   Pin 3    |      GPB6      |      U3
+   Pin 4    |      GPB5      |      U5
+   Pin 5    |      GPB4      |      U1
+   Pin 6    |      GPB3      |      U4
+   Pin 7    |      GPB2      |      U2
 ```
 
 - The squared pad is pin 1.
